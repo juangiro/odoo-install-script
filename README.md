@@ -1,6 +1,15 @@
 <h3>Installation procedure</h3>
+Pre-requisito:
+
+Install Git:
+sudo apt install git
+
+Change directory:
+
+cd /opt/
 
 1. **Download the script:**
+2.Change directory: cd /opt/
 ```text
 git clone https://github.com/juangiro/odoo-install-script
 ```
